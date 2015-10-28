@@ -3,7 +3,7 @@
 ------------
 ##使用说明：##
 1.将扩展导入工程；
-<p>2.在需要转换的类中导入</p>;
+<p>2.在需要转换的类中导入;</p>
 <pre><code>import "NSString+CDConvert.h"</pre></code>
 <p>3.使用它</p>
 <pre><code>[@"我是 demo" convertToPinYinUpperCase:YES]</pre></code>
